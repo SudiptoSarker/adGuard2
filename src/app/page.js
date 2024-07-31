@@ -5,7 +5,7 @@ import AdGuardPage from "./../components/AdGuardComponents/AdGuardPage"
 export default function Home() {
   return (
     <AdGuardPage />
-  )
+  );
   // return (
   //   <main className={styles.main}>
   //     <div className={styles.description}>
